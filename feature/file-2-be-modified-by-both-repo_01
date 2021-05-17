@@ -1,3 +1,6 @@
 file-2-be-modified-by-both-repo_01 #modified from local repo
 
 Added this extra line
+file-2-be-modified-by-both-repo_01 #modified this line from remote repo
+
+Accepted both changes
